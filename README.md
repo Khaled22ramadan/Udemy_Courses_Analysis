@@ -1,5 +1,8 @@
 # Udemy_Courses_Analysis
-This project involves the analysis of Udemy courses data to uncover insights into course popularity, pricing, and subject distribution. The dataset includes various features such as course title, price, number of subscribers, reviews, lectures, difficulty level, content duration, and subject. The analysis is performed using Python
+
+# ""Overview""
+
+This project involves the analysis of Udemy courses data to uncover insights into course popularity, pricing, and subject distribution. The dataset includes various features such as course title, price, number of subscribers, reviews, lectures, difficulty level, content duration, and subject. The analysis is performed using Python.
 
 # ""Dataset Features""
 
@@ -46,4 +49,8 @@ Pandas: Data wrangling and transformation
 Seaborn & Matplotlib: Data visualization
 
 Missingno: Handling missing values
+
+# ""Conclusion""
+
+This analysis provides key insights into Udemy's course trends, helping educators and businesses optimize their offerings based on data-driven decisions. Contributions and feedback are welcome!
 
